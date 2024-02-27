@@ -1,7 +1,3 @@
 Ping result for ncpe1-stoc-30.metro.net.gmone.org.uk: Success
 Ping result for ncpe2-stoc-30.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for ncpe1-stoc-98.metro.net.gmone.org.uk: Success
-Ping result for cpe1-old-4028.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for cpe1-old-4029.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for cpe1-old-4030.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for rcpe1-bury-5752.metro.net.gmone.org.uk: Failed: Timeout
