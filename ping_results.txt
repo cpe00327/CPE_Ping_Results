@@ -1,3 +1,6 @@
-Ping result for core1-lcasb.core.net.gmone.org.uk: Success
-Ping result for core1-lcbol.core.net.gmone.org.uk: Success
-Ping result for core1-lcfar.core.net.gmone.org.uk: Success
+Ping result for ncpe1-stoc-30.metro.net.gmone.org.uk: Success
+Ping result for ncpe2-stoc-30.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for ncpe1-stoc-98.metro.net.gmone.org.uk: Success
+Ping result for ncpe2-stoc-98.metro.net.gmone.org.uk: Success
+Ping result for rcpe1-bury-3564.metro.net.gmone.org.uk: Success
+Ping result for rcpe1-bury-5752.metro.net.gmone.org.uk: Failed: Timeout
