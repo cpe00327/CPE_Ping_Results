@@ -1,2 +1,3 @@
 Ping result for ncpe1-stoc-30.metro.net.gmone.org.uk: Success
-Ping result for ncpe1-stssoc-30.metro.net.gmone.org.ukrcpe1-bury-5752.metro.net.gmone.org.uk: Success
+Ping result for ncpe1-stssoc-30.metro.net.gmone.org.uk: Success
+Ping result for ncpe1-stssoc-5550.metro.net.gmone.org.ukrcpe1-bury-5752.metro.net.gmone.org.uk: Success
