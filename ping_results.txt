@@ -267,7 +267,7 @@ Ping result for cpe1-fs-809.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-fs-810.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-fs-811.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-fs-812.metro.net.gmone.org.uk: Success
-Ping result for cpe1-fs-814.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for cpe1-fs-814.metro.net.gmone.org.uk: Success
 Ping result for cpe1-fs-815.metro.net.gmone.org.uk: Success
 Ping result for cpe1-fs-4750.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-fs-4751.metro.net.gmone.org.uk: Success
