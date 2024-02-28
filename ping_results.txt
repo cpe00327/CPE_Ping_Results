@@ -138,7 +138,7 @@ Ping result for cpe1-roch-1467.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-roch-1469.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-roch-1471.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-roch-1472.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for cpe1-roch-1473.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for cpe1-roch-1473.metro.net.gmone.org.uk: Success
 Ping result for cpe1-roch-1475.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-roch-1476.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-roch-1477.metro.net.gmone.org.uk: Failed: Timeout
