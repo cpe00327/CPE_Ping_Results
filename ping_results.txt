@@ -24,8 +24,8 @@ Ping result for ncpe1-tfgm-2541.metro.net.gmone.org.uk: Success
 Ping result for ncpe2-tfgm-2541.metro.net.gmone.org.uk: Success
 Ping result for ncpe1-bury-3426.metro.net.gmone.org.uk: Success
 Ping result for ncpe2-bury-3426.metro.net.gmone.org.uk: Success
-Ping result for ncpe1-bury-3427.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for ncpe2-bury-3427.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for ncpe1-bury-3427.metro.net.gmone.org.uk: Success
+Ping result for ncpe2-bury-3427.metro.net.gmone.org.uk: Success
 Ping result for ncpe1-roch-3529.metro.net.gmone.org.uk: Success
 Ping result for ncpe2-roch-3529.metro.net.gmone.org.uk: Success
 Ping result for ncpe1-old-6000.metro.net.gmone.org.uk: Success
