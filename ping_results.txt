@@ -383,7 +383,7 @@ Ping result for cpe1-stoc-3565.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-stoc-3847.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-stoc-3848.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-stoc-3849.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for cpe1-stoc-5250.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for cpe1-stoc-5250.metro.net.gmone.org.uk: Success
 Ping result for cpe1-stoc-5251.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-stoc-5253.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-stoc-5256.metro.net.gmone.org.uk: Failed: Timeout
@@ -478,7 +478,7 @@ Ping result for rcpe1-bury-3553.metro.net.gmone.org.uk: Success
 Ping result for rcpe1-bury-3554.metro.net.gmone.org.uk: Success
 Ping result for rcpe1-bury-3556.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for rcpe1-bury-3558.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for rcpe1-bury-3559.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for rcpe1-bury-3559.metro.net.gmone.org.uk: Success
 Ping result for rcpe1-bury-3560.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for rcpe1-bury-3561.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for rcpe1-bury-3562.metro.net.gmone.org.uk: Failed: Timeout
