@@ -296,7 +296,7 @@ Ping result for cpe1-stoc-25.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-stoc-26.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-stoc-27.metro.net.gmone.org.uk: Success
 Ping result for cpe1-stoc-29.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for cpe1-stoc-32.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for cpe1-stoc-32.metro.net.gmone.org.uk: Success
 Ping result for cpe1-stoc-33.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-stoc-34.metro.net.gmone.org.uk: Success
 Ping result for cpe1-stoc-35.metro.net.gmone.org.uk: Failed: Timeout
