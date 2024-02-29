@@ -3,13 +3,13 @@ Ping result for ncpe2-stoc-30.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for ncpe1-stoc-98.metro.net.gmone.org.uk: Success
 Ping result for ncpe2-stoc-98.metro.net.gmone.org.uk: Success
 Ping result for ncpe1-fs-769.metro.net.gmone.org.uk: Success
-Ping result for ncpe2-fs-769.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for ncpe2-fs-769.metro.net.gmone.org.uk: Success
 Ping result for ncpe1-fs-778.metro.net.gmone.org.uk: Success
 Ping result for ncpe2-fs-778.metro.net.gmone.org.uk: Success
 Ping result for ncpe1-fs-787.metro.net.gmone.org.uk: Success
 Ping result for ncpe2-fs-787.metro.net.gmone.org.uk: Success
 Ping result for ncpe1-fs-791.metro.net.gmone.org.uk: Success
-Ping result for ncpe2-fs-791.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for ncpe2-fs-791.metro.net.gmone.org.uk: Success
 Ping result for ncpe1-fs-794.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for ncpe2-fs-794.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for ncpe1-old-1421.metro.net.gmone.org.uk: Failed: Timeout
@@ -221,8 +221,8 @@ Ping result for cpe1-fs-775.metro.net.gmone.org.uk: Success
 Ping result for cpe2-fs-775.metro.net.gmone.org.uk: Success
 Ping result for cpe1-fs-776.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe2-fs-776.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for cpe1-fs-777.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for cpe2-fs-777.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for cpe1-fs-777.metro.net.gmone.org.uk: Success
+Ping result for cpe2-fs-777.metro.net.gmone.org.uk: Success
 Ping result for cpe1-fs-779.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe2-fs-779.metro.net.gmone.org.uk: Success
 Ping result for cpe1-fs-781.metro.net.gmone.org.uk: Success
@@ -417,7 +417,7 @@ Ping result for cpe1-bury-404.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-bury-406.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-bury-409.metro.net.gmone.org.uk: Failed: Timeout
 Ping result for cpe1-bury-410.metro.net.gmone.org.uk: Failed: Timeout
-Ping result for cpe1-bury-411.metro.net.gmone.org.uk: Failed: Timeout
+Ping result for cpe1-bury-411.metro.net.gmone.org.uk: Success
 Ping result for cpe1-bury-412.metro.net.gmone.org.uk: Success
 Ping result for cpe1-bury-413.metro.net.gmone.org.uk: Success
 Ping result for cpe1-bury-414.metro.net.gmone.org.uk: Failed: Timeout
