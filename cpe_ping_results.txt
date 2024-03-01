@@ -159,7 +159,7 @@ Ping result for Apple_Raspberry: Failed: Timeout
 Ping result for Bilberry_Banana: Failed: Timeout
 Ping result for Guava_Pear: Failed: Timeout
 Ping result for Starfruit_Dragonfruit: Failed: Timeout
-Ping result for Carambola_Tamarillo: Failed: Timeout
+Ping result for Carambola_Tamarillo: Success
 Ping result for Peach_Bilberry: Failed: Timeout
 Ping result for Dragonfruit_Carambola: Failed: Timeout
 Ping result for Strawberry_Raspberry: Failed: Timeout
