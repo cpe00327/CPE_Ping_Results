@@ -243,7 +243,7 @@ Ping result for Avocado_Nectarine: Success
 Ping result for Peach_Pawpaw: Success
 Ping result for Blueberry_Mango: Failed: Timeout
 Ping result for Kiwi_Cranberry: Failed: Timeout
-Ping result for Orange_Dragonfruit: Failed: Timeout
+Ping result for Orange_Dragonfruit: Success
 Ping result for Kumquat_Jackfruit: Failed: Timeout
 Ping result for Pear_Starfruit: Success
 Ping result for Pomegranate_Avocado: Failed: Timeout
