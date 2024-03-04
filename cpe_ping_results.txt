@@ -180,7 +180,7 @@ Ping result for Gooseberry_Pear: Failed: Timeout
 Ping result for Grapefruit_Persimmon: Failed: Timeout
 Ping result for Cherry_Pomegranate: Failed: Timeout
 Ping result for Ackee_Tamarillo: Failed: Timeout
-Ping result for Plum_Lime: Failed: Timeout
+Ping result for Plum_Lime: Success
 Ping result for Kiwi_Persimmon: Failed: Timeout
 Ping result for Ackee_Avocado: Failed: Timeout
 Ping result for Avocado_Mango: Failed: Timeout
