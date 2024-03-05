@@ -380,7 +380,7 @@ Ping result for Rambutan_Kiwi: Failed: Timeout
 Ping result for Peach_Pear: Failed: Timeout
 Ping result for Kiwi_Nectarine: Failed: Timeout
 Ping result for Cranberry_Mango: Failed: Timeout
-Ping result for Guava_Watermelon: Failed: Timeout
+Ping result for Guava_Watermelon: Success
 Ping result for Orange_Papaya: Failed: Timeout
 Ping result for Banana_Starfruit: Failed: Timeout
 Ping result for Plum_Pawpaw: Success
