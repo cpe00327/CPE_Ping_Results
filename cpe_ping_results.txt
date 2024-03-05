@@ -332,7 +332,7 @@ Ping result for Gooseberry_Mango: Failed: Timeout
 Ping result for Nectarine_Fig: Failed: Timeout
 Ping result for Blueberry_Kiwi: Failed: Timeout
 Ping result for Plum_Loganberry: Failed: Timeout
-Ping result for Mango_Cantaloupe: Failed: Timeout
+Ping result for Mango_Cantaloupe: Success
 Ping result for Pomegranate_Strawberry: Failed: Timeout
 Ping result for Dragonfruit_Grape: Failed: Timeout
 Ping result for Papaya_Avocado: Failed: Timeout
