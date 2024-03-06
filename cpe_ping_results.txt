@@ -25,7 +25,7 @@ Ping result for Pineapple_Apricot: Success
 Ping result for Tamarillo_Mango: Success
 Ping result for Kumquat_Pomegranate: Success
 Ping result for Persimmon_Plantain: Success
-Ping result for Carambola_Cantaloupe: Failed: Timeout
+Ping result for Carambola_Cantaloupe: Success
 Ping result for Cranberry_Dragonfruit: Success
 Ping result for Banana_Kiwi: Success
 Ping result for Grape_Pineapple: Success
