@@ -233,8 +233,8 @@ Ping result for Dragonfruit_Blackberry: Success
 Ping result for Jackfruit_Guava: Success
 Ping result for Gooseberry_Grape: Success
 Ping result for Tamarillo_Grape: Success
-Ping result for Starfruit_Lemon: Failed: Timeout
-Ping result for Gooseberry_Jackfruit: Failed: Timeout
+Ping result for Starfruit_Lemon: Success
+Ping result for Gooseberry_Jackfruit: Success
 Ping result for Passionfruit_Pomegranate: Failed: Timeout
 Ping result for Avocado_Blackberry: Failed: Timeout
 Ping result for Pineapple_Raspberry: Success
