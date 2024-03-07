@@ -131,7 +131,7 @@ Ping result for Plum_Honeydew: Success
 Ping result for Soursop_Cranberry: Success
 Ping result for Papaya_Ackee: Failed: Timeout
 Ping result for Dragonfruit_Lemon: Failed: Timeout
-Ping result for Pawpaw_Guava: Failed: Timeout
+Ping result for Pawpaw_Guava: Success
 Ping result for Pear_Grape: Success
 Ping result for Orange_Grapefruit: Failed: Timeout
 Ping result for Blueberry_Banana: Failed: Timeout
