@@ -277,7 +277,7 @@ Ping result for Orange_Carambola: Failed: Timeout
 Ping result for Loganberry_Passionfruit: Failed: Timeout
 Ping result for Plantain_Mangosteen: Failed: Timeout
 Ping result for Pear_Kumquat: Failed: Timeout
-Ping result for Ackee_Cherry: Failed: Timeout
+Ping result for Ackee_Cherry: Success
 Ping result for Plum_Tamarillo: Success
 Ping result for Dragonfruit_Jackfruit: Success
 Ping result for Dragonfruit_Mangosteen: Success
