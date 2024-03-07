@@ -269,7 +269,7 @@ Ping result for Cantaloupe_Pear: Failed: Timeout
 Ping result for Tangerine_Fig: Success
 Ping result for Tamarillo_Bilberry: Success
 Ping result for Lime_Orange: Success
-Ping result for Banana_Strawberry: Failed: Timeout
+Ping result for Banana_Strawberry: Success
 Ping result for Watermelon_Orange: Success
 Ping result for Blueberry_Soursop: Success
 Ping result for Loganberry_Banana: Success
