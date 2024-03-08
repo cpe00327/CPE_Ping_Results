@@ -260,7 +260,7 @@ Ping result for Tamarillo_Tangerine: Success
 Ping result for Grapefruit_Ackee: Failed: Timeout
 Ping result for Tamarillo_Ackee: Success
 Ping result for Grapefruit_Jackfruit: Success
-Ping result for Apricot_Gooseberry: Failed: Timeout
+Ping result for Apricot_Gooseberry: Success
 Ping result for Pawpaw_Loganberry: Success
 Ping result for Lime_Jackfruit: Success
 Ping result for Fig_Feijoa: Success
