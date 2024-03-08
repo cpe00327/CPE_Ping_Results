@@ -227,8 +227,8 @@ Ping result for Banana_Feijoa: Success
 Ping result for Cantaloupe_Banana: Success
 Ping result for Passionfruit_Loganberry: Success
 Ping result for Blackberry_Banana: Success
-Ping result for Feijoa_Cranberry: Failed: Timeout
-Ping result for Loganberry_Tamarillo: Failed: Timeout
+Ping result for Feijoa_Cranberry: Success
+Ping result for Loganberry_Tamarillo: Success
 Ping result for Dragonfruit_Blackberry: Success
 Ping result for Jackfruit_Guava: Success
 Ping result for Gooseberry_Grape: Success
