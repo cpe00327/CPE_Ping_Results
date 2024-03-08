@@ -249,7 +249,7 @@ Ping result for Pear_Starfruit: Success
 Ping result for Pomegranate_Avocado: Failed: Timeout
 Ping result for Mango_Mangosteen: Success
 Ping result for Apricot_Peach: Success
-Ping result for Plantain_Lime: Failed: Timeout
+Ping result for Plantain_Lime: Success
 Ping result for Cranberry_Ackee: Success
 Ping result for Carambola_Durian: Failed: Timeout
 Ping result for Papaya_Cantaloupe: Failed: Timeout
