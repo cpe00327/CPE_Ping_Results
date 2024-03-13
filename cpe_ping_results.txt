@@ -219,7 +219,7 @@ Ping result for Carambola_Fig: Success
 Ping result for Banana_Gooseberry: Success
 Ping result for Mangosteen_Loganberry: Success
 Ping result for Banana_Mangosteen: Success
-Ping result for Blueberry_Loganberry: Success
+Ping result for Blueberry_Loganberry: Failed: Timeout
 Ping result for Papaya_Lemon: Failed: Timeout
 Ping result for Grapefruit_Durian: Success
 Ping result for Lemon_Grape: Success
