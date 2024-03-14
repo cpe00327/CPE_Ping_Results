@@ -7,7 +7,7 @@ Ping result for Cranberry_Plum: Success
 Ping result for Watermelon_Mangosteen: Success
 Ping result for Blueberry_Plantain: Success
 Ping result for Kumquat_Gooseberry: Success
-Ping result for Ackee_Soursop: Success
+Ping result for Ackee_Soursop: Failed: Timeout
 Ping result for Lime_Plantain: Success
 Ping result for Fig_Lime: Success
 Ping result for Pear_Coconut: Failed: Timeout
