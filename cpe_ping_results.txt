@@ -264,7 +264,7 @@ Ping result for Apricot_Gooseberry: Success
 Ping result for Pawpaw_Loganberry: Success
 Ping result for Lime_Jackfruit: Success
 Ping result for Fig_Feijoa: Success
-Ping result for Pear_Raspberry: Failed: Timeout
+Ping result for Pear_Raspberry: Success
 Ping result for Cantaloupe_Pear: Success
 Ping result for Tangerine_Fig: Success
 Ping result for Tamarillo_Bilberry: Success
