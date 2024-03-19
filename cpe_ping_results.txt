@@ -470,7 +470,7 @@ Ping result for Feijoa_Passionfruit: Success
 Ping result for Fig_Cranberry: Success
 Ping result for Pear_Plum: Success
 Ping result for Starfruit_Cranberry: Failed: Timeout
-Ping result for Lemon_Plum: Failed: Timeout
+Ping result for Lemon_Plum: Success
 Ping result for Nectarine_Blackberry: Failed: Timeout
 Ping result for Pawpaw_Watermelon: Failed: Timeout
 Ping result for Grape_Jackfruit: Failed: Timeout
