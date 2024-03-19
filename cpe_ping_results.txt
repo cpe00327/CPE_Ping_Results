@@ -473,7 +473,7 @@ Ping result for Starfruit_Cranberry: Failed: Timeout
 Ping result for Lemon_Plum: Success
 Ping result for Nectarine_Blackberry: Failed: Timeout
 Ping result for Pawpaw_Watermelon: Failed: Timeout
-Ping result for Grape_Jackfruit: Failed: Timeout
+Ping result for Grape_Jackfruit: Success
 Ping result for Bilberry_Coconut: Success
 Ping result for Persimmon_Blackberry: Success
 Ping result for Persimmon_Apple: Failed: Timeout
