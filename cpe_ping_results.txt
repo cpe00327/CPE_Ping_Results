@@ -484,4 +484,4 @@ Ping result for Watermelon_Raspberry: Failed: Timeout
 Ping result for Papaya_Passionfruit: Failed: Timeout
 Ping result for Passionfruit_Tangerine: Success
 Ping result for Plantain_Loganberry: Success
-Ping result for Plum_Cherry: Failed: Timeout
+Ping result for Plum_Cherry: Success
