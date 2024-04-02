@@ -433,7 +433,7 @@ Ping result for Persimmon_Avocado: Failed: Timeout
 Ping result for Kumquat_Starfruit: Failed: Timeout
 Ping result for Fig_Apricot: Success
 Ping result for Grape_Loganberry: Failed: Timeout
-Ping result for Pomegranate_Mango: Failed: Timeout
+Ping result for Pomegranate_Mango: Success
 Ping result for Pomegranate_Soursop: Failed: Timeout
 Ping result for Starfruit_Raspberry: Failed: Timeout
 Ping result for Peach_Passionfruit: Failed: Timeout
