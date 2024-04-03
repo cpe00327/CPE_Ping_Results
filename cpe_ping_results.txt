@@ -151,7 +151,7 @@ Ping result for Raspberry_Apricot: Success
 Ping result for Lemon_Strawberry: Success
 Ping result for Blueberry_Peach: Success
 Ping result for Loganberry_Grape: Failed: Timeout
-Ping result for Raspberry_Gooseberry: Failed: Timeout
+Ping result for Raspberry_Gooseberry: Success
 Ping result for Durian_Grape: Failed: Timeout
 Ping result for Soursop_Pawpaw: Failed: Timeout
 Ping result for Orange_Soursop: Success
