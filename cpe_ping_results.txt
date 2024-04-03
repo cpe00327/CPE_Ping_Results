@@ -1,4 +1,4 @@
-Ping result for Pomegranate_Lemon: Failed: Timeout
+Ping result for Pomegranate_Lemon: Success
 Ping result for Apple_Fig: Success
 Ping result for Orange_Pawpaw: Success
 Ping result for Grape_Raspberry: Success
