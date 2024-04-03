@@ -141,7 +141,7 @@ Ping result for Blueberry_Dragonfruit: Success
 Ping result for Lemon_Jackfruit: Success
 Ping result for Pawpaw_Jackfruit: Failed: Timeout
 Ping result for Guava_Plum: Success
-Ping result for Grapefruit_Blueberry: Success
+Ping result for Grapefruit_Blueberry: Failed: Timeout
 Ping result for Loganberry_Carambola: Failed: Timeout
 Ping result for Strawberry_Cherry: Failed: Timeout
 Ping result for Feijoa_Nectarine: Failed: Timeout
