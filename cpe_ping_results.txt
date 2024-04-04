@@ -329,7 +329,7 @@ Ping result for Tangerine_Carambola: Failed: Timeout
 Ping result for Passionfruit_Blueberry: Failed: Timeout
 Ping result for Pomegranate_Pear: Failed: Timeout
 Ping result for Gooseberry_Mango: Failed: Timeout
-Ping result for Nectarine_Fig: Failed: Timeout
+Ping result for Nectarine_Fig: Success
 Ping result for Blueberry_Kiwi: Failed: Timeout
 Ping result for Plum_Loganberry: Failed: Timeout
 Ping result for Mango_Cantaloupe: Success
