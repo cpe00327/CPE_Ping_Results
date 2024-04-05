@@ -103,7 +103,7 @@ Ping result for Lemon_Watermelon: Failed: Timeout
 Ping result for Lime_Raspberry: Failed: Timeout
 Ping result for Pawpaw_Ackee: Failed: Timeout
 Ping result for Durian_Plantain: Success
-Ping result for Pawpaw_Coconut: Failed: Timeout
+Ping result for Pawpaw_Coconut: Success
 Ping result for Ackee_Mango: Failed: Timeout
 Ping result for Plantain_Cranberry: Failed: Timeout
 Ping result for Durian_Kumquat: Failed: Timeout
