@@ -55,7 +55,7 @@ Ping result for Avocado_Kumquat: Failed: Timeout
 Ping result for Plantain_Pomegranate: Failed: Timeout
 Ping result for Dragonfruit_Soursop: Failed: Timeout
 Ping result for Tamarillo_Loganberry: Success
-Ping result for Guava_Soursop: Failed: Timeout
+Ping result for Guava_Soursop: Success
 Ping result for Cherry_Soursop: Success
 Ping result for Guava_Lime: Failed: Timeout
 Ping result for Coconut_Mangosteen: Failed: Timeout
