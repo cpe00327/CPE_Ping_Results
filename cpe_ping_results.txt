@@ -174,7 +174,7 @@ Ping result for Ackee_Bilberry: Failed: Timeout
 Ping result for Honeydew_Plum: Failed: Timeout
 Ping result for Fig_Bilberry: Success
 Ping result for Cantaloupe_Tamarillo: Success
-Ping result for Mangosteen_Tamarillo: Failed: Timeout
+Ping result for Mangosteen_Tamarillo: Success
 Ping result for Passionfruit_Plum: Success
 Ping result for Gooseberry_Pear: Success
 Ping result for Grapefruit_Persimmon: Success
