@@ -448,7 +448,7 @@ Ping result for Pear_Pineapple: Failed: Timeout
 Ping result for Apple_Honeydew: Failed: Timeout
 Ping result for Bilberry_Apricot: Failed: Timeout
 Ping result for Raspberry_Persimmon: Success
-Ping result for Apple_Watermelon: Failed: Timeout
+Ping result for Apple_Watermelon: Success
 Ping result for Avocado_Plantain: Failed: Timeout
 Ping result for Cantaloupe_Orange: Failed: Timeout
 Ping result for Peach_Rambutan: Failed: Timeout
