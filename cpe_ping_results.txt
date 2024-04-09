@@ -353,7 +353,7 @@ Ping result for Banana_Tangerine: Success
 Ping result for Tamarillo_Strawberry: Failed: Timeout
 Ping result for Carambola_Dragonfruit: Failed: Timeout
 Ping result for Cherry_Loganberry: Success
-Ping result for Avocado_Gooseberry: Failed: Timeout
+Ping result for Avocado_Gooseberry: Success
 Ping result for Banana_Loganberry: Failed: Timeout
 Ping result for Feijoa_Mangosteen: Success
 Ping result for Starfruit_Plantain: Success
