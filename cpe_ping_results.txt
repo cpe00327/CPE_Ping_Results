@@ -210,7 +210,7 @@ Ping result for Kiwi_Tangerine: Failed: Timeout
 Ping result for Orange_Cherry: Failed: Timeout
 Ping result for Cherry_Tangerine: Success
 Ping result for Pineapple_Rambutan: Failed: Timeout
-Ping result for Watermelon_Jackfruit: Failed: Timeout
+Ping result for Watermelon_Jackfruit: Success
 Ping result for Bilberry_Avocado: Failed: Timeout
 Ping result for Gooseberry_Grapefruit: Success
 Ping result for Blackberry_Kiwi: Success
