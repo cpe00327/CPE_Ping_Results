@@ -74,7 +74,7 @@ Ping result for Grape_Strawberry: Failed: Timeout
 Ping result for Plantain_Pineapple: Failed: Timeout
 Ping result for Cranberry_Passionfruit: Failed: Timeout
 Ping result for Loganberry_Guava: Failed: Timeout
-Ping result for Dragonfruit_Ackee: Failed: Timeout
+Ping result for Dragonfruit_Ackee: Success
 Ping result for Plantain_Avocado: Failed: Timeout
 Ping result for Apple_Kumquat: Failed: Timeout
 Ping result for Apricot_Bilberry: Failed: Timeout
