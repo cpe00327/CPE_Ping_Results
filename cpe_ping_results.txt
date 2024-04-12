@@ -144,7 +144,7 @@ Ping result for Guava_Plum: Success
 Ping result for Grapefruit_Blueberry: Success
 Ping result for Loganberry_Carambola: Success
 Ping result for Strawberry_Cherry: Success
-Ping result for Feijoa_Nectarine: Failed: Timeout
+Ping result for Feijoa_Nectarine: Success
 Ping result for Papaya_Peach: Success
 Ping result for Plum_Ackee: Success
 Ping result for Raspberry_Apricot: Success
