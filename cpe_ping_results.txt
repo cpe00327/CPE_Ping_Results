@@ -82,8 +82,8 @@ Ping result for Tangerine_Avocado: Failed: Timeout
 Ping result for Lychee_Tamarillo: Failed: Timeout
 Ping result for Guava_Cranberry: Failed: Timeout
 Ping result for Gooseberry_Watermelon: Failed: Timeout
-Ping result for Pomegranate_Kiwi: Failed: Timeout
-Ping result for Kiwi_Grape: Failed: Timeout
+Ping result for Pomegranate_Kiwi: Success
+Ping result for Kiwi_Grape: Success
 Ping result for Banana_Avocado: Failed: Timeout
 Ping result for Cherry_Honeydew: Success
 Ping result for Pawpaw_Tamarillo: Success
