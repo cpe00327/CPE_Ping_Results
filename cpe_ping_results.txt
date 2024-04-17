@@ -196,7 +196,7 @@ Ping result for Mango_Passionfruit: Failed: Timeout
 Ping result for Pawpaw_Gooseberry: Failed: Timeout
 Ping result for Cherry_Persimmon: Failed: Timeout
 Ping result for Strawberry_Lime: Failed: Timeout
-Ping result for Persimmon_Lychee: Failed: Timeout
+Ping result for Persimmon_Lychee: Success
 Ping result for Mangosteen_Pear: Failed: Timeout
 Ping result for Persimmon_Guava: Failed: Timeout
 Ping result for Tangerine_Peach: Failed: Timeout
