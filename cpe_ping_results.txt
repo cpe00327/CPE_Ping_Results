@@ -66,7 +66,7 @@ Ping result for Cherry_Bilberry: Failed: Timeout
 Ping result for Durian_Tamarillo: Success
 Ping result for Lime_Blackberry: Success
 Ping result for Papaya_Plantain: Success
-Ping result for Lime_Watermelon: Failed: Timeout
+Ping result for Lime_Watermelon: Success
 Ping result for Papaya_Cherry: Failed: Timeout
 Ping result for Lime_Mango: Failed: Timeout
 Ping result for Blueberry_Tamarillo: Failed: Timeout
@@ -447,7 +447,7 @@ Ping result for Watermelon_Blueberry: Success
 Ping result for Pear_Pineapple: Failed: Timeout
 Ping result for Apple_Honeydew: Failed: Timeout
 Ping result for Bilberry_Apricot: Failed: Timeout
-Ping result for Raspberry_Persimmon: Success
+Ping result for Raspberry_Persimmon: Failed: Timeout
 Ping result for Apple_Watermelon: Success
 Ping result for Avocado_Plantain: Failed: Timeout
 Ping result for Cantaloupe_Orange: Failed: Timeout
