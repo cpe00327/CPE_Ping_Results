@@ -385,7 +385,7 @@ Ping result for Orange_Papaya: Success
 Ping result for Banana_Starfruit: Success
 Ping result for Plum_Pawpaw: Success
 Ping result for Loganberry_Dragonfruit: Success
-Ping result for Lime_Apricot: Success
+Ping result for Lime_Apricot: Failed: Timeout
 Ping result for Plantain_Papaya: Failed: Timeout
 Ping result for Pear_Plantain: Failed: Timeout
 Ping result for Ackee_Pineapple: Success
