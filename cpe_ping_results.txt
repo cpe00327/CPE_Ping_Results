@@ -406,7 +406,7 @@ Ping result for Plum_Plantain: Failed: Timeout
 Ping result for Feijoa_Apple: Failed: Timeout
 Ping result for Plum_Lychee: Success
 Ping result for Apricot_Coconut: Failed: Timeout
-Ping result for Lime_Gooseberry: Failed: Timeout
+Ping result for Lime_Gooseberry: Success
 Ping result for Passionfruit_Gooseberry: Failed: Timeout
 Ping result for Gooseberry_Tangerine: Failed: Timeout
 Ping result for Bilberry_Loganberry: Failed: Timeout
