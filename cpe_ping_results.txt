@@ -246,7 +246,7 @@ Ping result for Kiwi_Cranberry: Success
 Ping result for Orange_Dragonfruit: Success
 Ping result for Kumquat_Jackfruit: Success
 Ping result for Pear_Starfruit: Success
-Ping result for Pomegranate_Avocado: Failed: Timeout
+Ping result for Pomegranate_Avocado: Success
 Ping result for Mango_Mangosteen: Success
 Ping result for Apricot_Peach: Success
 Ping result for Plantain_Lime: Success
