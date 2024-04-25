@@ -409,7 +409,7 @@ Ping result for Apricot_Coconut: Failed: Timeout
 Ping result for Lime_Gooseberry: Success
 Ping result for Passionfruit_Gooseberry: Failed: Timeout
 Ping result for Gooseberry_Tangerine: Failed: Timeout
-Ping result for Bilberry_Loganberry: Failed: Timeout
+Ping result for Bilberry_Loganberry: Success
 Ping result for Cranberry_Pomegranate: Success
 Ping result for Pomegranate_Plantain: Failed: Timeout
 Ping result for Feijoa_Bilberry: Failed: Timeout
