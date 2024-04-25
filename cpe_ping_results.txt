@@ -118,7 +118,7 @@ Ping result for Nectarine_Kiwi: Success
 Ping result for Grapefruit_Strawberry: Success
 Ping result for Cranberry_Coconut: Failed: Timeout
 Ping result for Blueberry_Fig: Failed: Timeout
-Ping result for Pear_Blueberry: Failed: Timeout
+Ping result for Pear_Blueberry: Success
 Ping result for Papaya_Lime: Failed: Timeout
 Ping result for Mangosteen_Dragonfruit: Success
 Ping result for Honeydew_Blackberry: Success
