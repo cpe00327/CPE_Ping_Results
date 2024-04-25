@@ -378,7 +378,7 @@ Ping result for Papaya_Rambutan: Success
 Ping result for Mangosteen_Guava: Success
 Ping result for Rambutan_Kiwi: Failed: Timeout
 Ping result for Peach_Pear: Failed: Timeout
-Ping result for Kiwi_Nectarine: Failed: Timeout
+Ping result for Kiwi_Nectarine: Success
 Ping result for Cranberry_Mango: Failed: Timeout
 Ping result for Guava_Watermelon: Success
 Ping result for Orange_Papaya: Success
