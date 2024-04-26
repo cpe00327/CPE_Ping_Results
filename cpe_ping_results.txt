@@ -189,7 +189,7 @@ Ping result for Orange_Watermelon: Success
 Ping result for Mangosteen_Plum: Success
 Ping result for Nectarine_Raspberry: Failed: Timeout
 Ping result for Grape_Tamarillo: Failed: Timeout
-Ping result for Avocado_Pear: Failed: Timeout
+Ping result for Avocado_Pear: Success
 Ping result for Starfruit_Pomegranate: Failed: Timeout
 Ping result for Lychee_Cantaloupe: Failed: Timeout
 Ping result for Mango_Passionfruit: Success
