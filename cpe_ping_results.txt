@@ -169,7 +169,7 @@ Ping result for Tangerine_Tamarillo: Failed: Timeout
 Ping result for Pineapple_Plum: Success
 Ping result for Peach_Persimmon: Success
 Ping result for Durian_Ackee: Success
-Ping result for Peach_Mangosteen: Failed: Timeout
+Ping result for Peach_Mangosteen: Success
 Ping result for Ackee_Bilberry: Failed: Timeout
 Ping result for Honeydew_Plum: Failed: Timeout
 Ping result for Fig_Bilberry: Success
