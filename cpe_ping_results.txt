@@ -398,7 +398,7 @@ Ping result for Pawpaw_Nectarine: Failed: Timeout
 Ping result for Dragonfruit_Kiwi: Success
 Ping result for Plum_Avocado: Failed: Timeout
 Ping result for Pineapple_Cantaloupe: Success
-Ping result for Strawberry_Plantain: Failed: Timeout
+Ping result for Strawberry_Plantain: Success
 Ping result for Starfruit_Tangerine: Success
 Ping result for Durian_Lychee: Success
 Ping result for Kumquat_Cantaloupe: Failed: Timeout
