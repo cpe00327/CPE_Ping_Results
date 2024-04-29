@@ -107,7 +107,7 @@ Ping result for Pawpaw_Coconut: Success
 Ping result for Ackee_Mango: Failed: Timeout
 Ping result for Plantain_Cranberry: Success
 Ping result for Durian_Kumquat: Failed: Timeout
-Ping result for Ackee_Loganberry: Success
+Ping result for Ackee_Loganberry: Failed: Timeout
 Ping result for Orange_Ackee: Failed: Timeout
 Ping result for Banana_Tamarillo: Success
 Ping result for Cherry_Kiwi: Success
@@ -153,7 +153,7 @@ Ping result for Blueberry_Peach: Success
 Ping result for Loganberry_Grape: Failed: Timeout
 Ping result for Raspberry_Gooseberry: Success
 Ping result for Durian_Grape: Failed: Timeout
-Ping result for Soursop_Pawpaw: Failed: Timeout
+Ping result for Soursop_Pawpaw: Success
 Ping result for Orange_Soursop: Success
 Ping result for Apple_Raspberry: Failed: Timeout
 Ping result for Bilberry_Banana: Success
@@ -286,7 +286,7 @@ Ping result for Feijoa_Plantain: Failed: Timeout
 Ping result for Durian_Apricot: Failed: Timeout
 Ping result for Blackberry_Ackee: Failed: Timeout
 Ping result for Apricot_Rambutan: Success
-Ping result for Kiwi_Orange: Failed: Timeout
+Ping result for Kiwi_Orange: Success
 Ping result for Guava_Apple: Failed: Timeout
 Ping result for Passionfruit_Mango: Success
 Ping result for Lime_Banana: Failed: Timeout
