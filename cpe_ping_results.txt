@@ -100,7 +100,7 @@ Ping result for Pear_Gooseberry: Success
 Ping result for Cranberry_Banana: Success
 Ping result for Watermelon_Apple: Failed: Timeout
 Ping result for Lemon_Watermelon: Failed: Timeout
-Ping result for Lime_Raspberry: Failed: Timeout
+Ping result for Lime_Raspberry: Success
 Ping result for Pawpaw_Ackee: Success
 Ping result for Durian_Plantain: Success
 Ping result for Pawpaw_Coconut: Success
