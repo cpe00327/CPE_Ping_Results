@@ -312,7 +312,7 @@ Ping result for Strawberry_Durian: Success
 Ping result for Lychee_Bilberry: Failed: Timeout
 Ping result for Loganberry_Avocado: Success
 Ping result for Avocado_Banana: Failed: Timeout
-Ping result for Blackberry_Cantaloupe: Failed: Timeout
+Ping result for Blackberry_Cantaloupe: Success
 Ping result for Raspberry_Dragonfruit: Failed: Timeout
 Ping result for Watermelon_Banana: Failed: Timeout
 Ping result for Kumquat_Strawberry: Success
