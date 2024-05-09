@@ -394,7 +394,7 @@ Ping result for Coconut_Plum: Success
 Ping result for Plum_Apricot: Failed: Timeout
 Ping result for Kiwi_Plantain: Failed: Timeout
 Ping result for Cherry_Papaya: Failed: Timeout
-Ping result for Pawpaw_Nectarine: Success
+Ping result for Pawpaw_Nectarine: Failed: Timeout
 Ping result for Dragonfruit_Kiwi: Success
 Ping result for Plum_Avocado: Failed: Timeout
 Ping result for Pineapple_Cantaloupe: Success
