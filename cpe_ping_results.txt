@@ -371,7 +371,7 @@ Ping result for Watermelon_Grape: Success
 Ping result for Jackfruit_Coconut: Success
 Ping result for Ackee_Grapefruit: Success
 Ping result for Coconut_Pomegranate: Success
-Ping result for Loganberry_Fig: Failed: Timeout
+Ping result for Loganberry_Fig: Success
 Ping result for Plum_Soursop: Failed: Timeout
 Ping result for Durian_Cantaloupe: Success
 Ping result for Papaya_Rambutan: Success
