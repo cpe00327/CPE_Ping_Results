@@ -91,7 +91,7 @@ Ping result for Cranberry_Apricot: Failed: Timeout
 Ping result for Plum_Persimmon: Failed: Timeout
 Ping result for Gooseberry_Lime: Success
 Ping result for Grapefruit_Kumquat: Success
-Ping result for Tamarillo_Apricot: Failed: Timeout
+Ping result for Tamarillo_Apricot: Success
 Ping result for Carambola_Grapefruit: Failed: Timeout
 Ping result for Pawpaw_Cherry: Success
 Ping result for Strawberry_Lemon: Failed: Timeout
