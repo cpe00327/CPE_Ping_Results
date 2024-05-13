@@ -162,7 +162,7 @@ Ping result for Starfruit_Dragonfruit: Success
 Ping result for Carambola_Tamarillo: Success
 Ping result for Peach_Bilberry: Success
 Ping result for Dragonfruit_Carambola: Failed: Timeout
-Ping result for Strawberry_Raspberry: Failed: Timeout
+Ping result for Strawberry_Raspberry: Success
 Ping result for Watermelon_Tangerine: Failed: Timeout
 Ping result for Nectarine_Apple: Success
 Ping result for Tangerine_Tamarillo: Failed: Timeout
