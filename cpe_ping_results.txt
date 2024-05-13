@@ -403,7 +403,7 @@ Ping result for Starfruit_Tangerine: Success
 Ping result for Durian_Lychee: Success
 Ping result for Kumquat_Cantaloupe: Failed: Timeout
 Ping result for Plum_Plantain: Success
-Ping result for Feijoa_Apple: Failed: Timeout
+Ping result for Feijoa_Apple: Success
 Ping result for Plum_Lychee: Success
 Ping result for Apricot_Coconut: Success
 Ping result for Lime_Gooseberry: Success
