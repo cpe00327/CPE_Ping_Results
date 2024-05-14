@@ -438,7 +438,7 @@ Ping result for Pomegranate_Soursop: Success
 Ping result for Starfruit_Raspberry: Failed: Timeout
 Ping result for Peach_Passionfruit: Failed: Timeout
 Ping result for Carambola_Mangosteen: Failed: Timeout
-Ping result for Pomegranate_Apple: Failed: Timeout
+Ping result for Pomegranate_Apple: Success
 Ping result for Cherry_Blackberry: Success
 Ping result for Rambutan_Blueberry: Success
 Ping result for Nectarine_Lime: Failed: Timeout
