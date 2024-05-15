@@ -452,7 +452,7 @@ Ping result for Apple_Watermelon: Success
 Ping result for Avocado_Plantain: Failed: Timeout
 Ping result for Cantaloupe_Orange: Success
 Ping result for Peach_Rambutan: Failed: Timeout
-Ping result for Raspberry_Banana: Failed: Timeout
+Ping result for Raspberry_Banana: Success
 Ping result for Banana_Orange: Failed: Timeout
 Ping result for Pineapple_Kumquat: Success
 Ping result for Cantaloupe_Papaya: Success
