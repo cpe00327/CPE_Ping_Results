@@ -392,7 +392,7 @@ Ping result for Ackee_Pineapple: Success
 Ping result for Apricot_Raspberry: Success
 Ping result for Coconut_Plum: Success
 Ping result for Plum_Apricot: Failed: Timeout
-Ping result for Kiwi_Plantain: Failed: Timeout
+Ping result for Kiwi_Plantain: Success
 Ping result for Cherry_Papaya: Failed: Timeout
 Ping result for Pawpaw_Nectarine: Success
 Ping result for Dragonfruit_Kiwi: Success
