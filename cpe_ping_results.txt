@@ -364,7 +364,7 @@ Ping result for Passionfruit_Pawpaw: Success
 Ping result for Lime_Passionfruit: Failed: Timeout
 Ping result for Honeydew_Grapefruit: Success
 Ping result for Honeydew_Jackfruit: Success
-Ping result for Raspberry_Durian: Failed: Timeout
+Ping result for Raspberry_Durian: Success
 Ping result for Carambola_Loganberry: Failed: Timeout
 Ping result for Honeydew_Tamarillo: Success
 Ping result for Watermelon_Grape: Success
