@@ -284,7 +284,7 @@ Ping result for Dragonfruit_Mangosteen: Success
 Ping result for Fig_Plantain: Failed: Timeout
 Ping result for Feijoa_Plantain: Failed: Timeout
 Ping result for Durian_Apricot: Failed: Timeout
-Ping result for Blackberry_Ackee: Failed: Timeout
+Ping result for Blackberry_Ackee: Success
 Ping result for Apricot_Rambutan: Success
 Ping result for Kiwi_Orange: Success
 Ping result for Guava_Apple: Failed: Timeout
