@@ -70,7 +70,7 @@ Ping result for Lime_Watermelon: Success
 Ping result for Papaya_Cherry: Success
 Ping result for Lime_Mango: Success
 Ping result for Blueberry_Tamarillo: Failed: Timeout
-Ping result for Grape_Strawberry: Failed: Timeout
+Ping result for Grape_Strawberry: Success
 Ping result for Plantain_Pineapple: Failed: Timeout
 Ping result for Cranberry_Passionfruit: Success
 Ping result for Loganberry_Guava: Failed: Timeout
