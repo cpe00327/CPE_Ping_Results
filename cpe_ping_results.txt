@@ -60,7 +60,7 @@ Ping result for Cherry_Soursop: Failed: Timeout
 Ping result for Guava_Lime: Failed: Timeout
 Ping result for Coconut_Mangosteen: Success
 Ping result for Ackee_Passionfruit: Success
-Ping result for Bilberry_Papaya: Success
+Ping result for Bilberry_Papaya: Failed: Timeout
 Ping result for Kiwi_Mangosteen: Success
 Ping result for Cherry_Bilberry: Failed: Timeout
 Ping result for Durian_Tamarillo: Success
