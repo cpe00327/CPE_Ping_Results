@@ -346,7 +346,7 @@ Ping result for Starfruit_Apple: Success
 Ping result for Mango_Tamarillo: Success
 Ping result for Starfruit_Coconut: Success
 Ping result for Cherry_Carambola: Success
-Ping result for Mangosteen_Feijoa: Failed: Timeout
+Ping result for Mangosteen_Feijoa: Success
 Ping result for Banana_Cranberry: Failed: Timeout
 Ping result for Mango_Apricot: Success
 Ping result for Banana_Tangerine: Success
