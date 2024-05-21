@@ -339,7 +339,7 @@ Ping result for Papaya_Avocado: Success
 Ping result for Coconut_Soursop: Success
 Ping result for Persimmon_Banana: Success
 Ping result for Passionfruit_Raspberry: Success
-Ping result for Banana_Dragonfruit: Failed: Timeout
+Ping result for Banana_Dragonfruit: Success
 Ping result for Passionfruit_Lime: Success
 Ping result for Pawpaw_Lemon: Failed: Timeout
 Ping result for Starfruit_Apple: Success
