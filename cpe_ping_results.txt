@@ -446,7 +446,7 @@ Ping result for Avocado_Lychee: Failed: Timeout
 Ping result for Watermelon_Blueberry: Success
 Ping result for Pear_Pineapple: Success
 Ping result for Apple_Honeydew: Success
-Ping result for Bilberry_Apricot: Failed: Timeout
+Ping result for Bilberry_Apricot: Success
 Ping result for Raspberry_Persimmon: Success
 Ping result for Apple_Watermelon: Success
 Ping result for Avocado_Plantain: Failed: Timeout
