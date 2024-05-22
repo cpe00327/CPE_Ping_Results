@@ -428,7 +428,7 @@ Ping result for Raspberry_Jackfruit: Success
 Ping result for Ackee_Rambutan: Failed: Timeout
 Ping result for Papaya_Lychee: Success
 Ping result for Feijoa_Pineapple: Failed: Timeout
-Ping result for Pawpaw_Feijoa: Failed: Timeout
+Ping result for Pawpaw_Feijoa: Success
 Ping result for Persimmon_Avocado: Failed: Timeout
 Ping result for Kumquat_Starfruit: Failed: Timeout
 Ping result for Fig_Apricot: Success
