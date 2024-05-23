@@ -113,7 +113,7 @@ Ping result for Banana_Tamarillo: Success
 Ping result for Cherry_Kiwi: Success
 Ping result for Plantain_Tangerine: Failed: Timeout
 Ping result for Durian_Tangerine: Success
-Ping result for Durian_Strawberry: Success
+Ping result for Durian_Strawberry: Failed: Timeout
 Ping result for Nectarine_Kiwi: Success
 Ping result for Grapefruit_Strawberry: Success
 Ping result for Cranberry_Coconut: Failed: Timeout
